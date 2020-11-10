@@ -177,7 +177,7 @@ SIMD による高速化については既に知見があったが、プログラ
 ##### 言語 / フレームワーク等
 
 - JavaScript / Vue.js, Node.js
-- C# / .NET Framework, APS.NET
+- C# / .NET Framework, ASP.NET
 
 #### プロジェクト：産業用通信プロトコルのサンプル実装
 
