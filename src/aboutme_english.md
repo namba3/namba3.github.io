@@ -25,7 +25,7 @@ Technical staff, part-time, 2 days a week <span class="tenure">Octorber 2015 - M
 - Worked on OCR projects.
 - Investigated OCR related technologies.
 - Inspected the recognition accuracy of the development version of the OCR product.
-- Developed a simple data processing programs and CLI applications.
+- Developed simple data processing programs and CLI applications.
 
 ### Fixstars Corporation <span class="location">Tokyo, Japan</span>
 
