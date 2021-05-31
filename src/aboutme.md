@@ -309,9 +309,9 @@ gRPC と protobuf の力を借りて通信のインターフェイスとデー�
 
 ##### 言語 / フレームワーク等
 
-- Go
+- Go / grpc-go
 - C# / .NET Core, ASP.NET Core
-- Rust
+- Rust / tonic, tokio
 
 #### プロジェクト：建築系 3D モデルビューワー
 
