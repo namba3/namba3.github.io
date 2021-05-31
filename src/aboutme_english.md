@@ -1,4 +1,4 @@
-# ABOUT ME  <div class="header"><div class="last-updated">Last Updated: December 24, 2020</div><div class="lang-selector">[日本語](./index.html) | English</div><div>
+# ABOUT ME <div class="header"><div class="last-updated">Last Updated: May 31, 2021</div><div class="lang-selector">[日本語](./index.html) | English</div><div>
 
 ## SUMMARY
 
@@ -45,14 +45,14 @@ Master of Computer Science, The University of Electro-Communications, Japan (201
 
 ## COMPUTER LANGUAGES
 
-- C/C++
 - Rust
 - Go
+- C/C++
+- TypeScript
+- JavaScript
 - Python
 - Julia
 - Haskell
-- JavaScript
-- TypeScript
 - C#
 - Java
 
