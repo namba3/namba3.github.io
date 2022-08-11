@@ -51,10 +51,7 @@ Master of Computer Science, The University of Electro-Communications, Japan (201
 - TypeScript
 - JavaScript
 - Python
-- Julia
-- Haskell
 - C#
-- Java
 
 ## ADDITIONAL INFORMATION
 
