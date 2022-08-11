@@ -1,4 +1,4 @@
-# ABOUT ME <div class="header"><div class="last-updated">Last Updated: May 31, 2021</div><div class="lang-selector">[日本語](./index.html) | English</div><div>
+# ABOUT ME <div class="header"><div class="last-updated">Last Updated: August 12, 2022</div><div class="lang-selector">[日本語](./index.html) | English</div><div>
 
 ## SUMMARY
 
@@ -12,7 +12,7 @@
 
 ### Core Concept Technologies Inc. <span class="location">Tokyo, Japan</span>
 
-Software Developer, full-time <span class="tenure">April 2018 - present</span>
+Software Developer, full-time <span class="tenure">April 2018 - November 2021</span>
 
 - Worked on IoT projects.
 - Experienced in designing system architecture and developing backend and frontend for small projects.
@@ -41,7 +41,7 @@ Master of Computer Science, The University of Electro-Communications, Japan (201
 ## HUMAN LANGUAGES
 
 - Japanese: Native
-- English: Intermediate in reading/writing, and a little in speaking
+- English: Intermediate in reading/writing
 
 ## COMPUTER LANGUAGES
 
